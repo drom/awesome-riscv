@@ -6,6 +6,7 @@ A curated list of awesome RISC-V implementations
 
 |Repository|Language|arch|microarch|Target|License|
 |-|-|-|-|-|-|
+|[fwrisc](https://github.com/mballance/fwrisc-s)|Verilog|rv32i[mc]||FPGA|Apache2|
 |[ibex](https://github.com/lowRISC/ibex)|SystemVerilog|rv32imc|2 stage|ASIC|Apache2|
 |[PicoRV32](https://github.com/cliffordwolf/picorv32)|Verilog|rv32imc|?|ASIC+FPGA|ISC|
 |[Rocket](https://github.com/chipsalliance/rocket-chip)|Scala|rv32ima|5? stage|ASIC|BSD|
