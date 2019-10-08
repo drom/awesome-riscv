@@ -13,6 +13,7 @@ A curated list of awesome RISC-V implementations
 |[SERV](https://github.com/olofk/serv)|Verilog|rv32||FPGA|ISC|
 |[SweRV](https://github.com/chipsalliance/Cores-SweRV)|SystemVerilog|rv32imc||ASIC|Apache2|
 |[VexRiscv](https://github.com/SpinalHDL/VexRiscv)|Scala|rv32imca|2-5 stage|FPGA|MIT|
+|[riscv-mini](https://github.com/ucb-bar/riscv-mini)|Scala|rv32i|3 stage|ASIC|BSD|
 
 ## License
 
