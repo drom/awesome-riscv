@@ -17,7 +17,7 @@ A curated list of awesome RISC-V implementations
 |[SERV](https://github.com/olofk/serv)|Verilog|rv32|0-calories|FPGA|ISC|[![SERV](https://img.shields.io/github/stars/olofk/serv.svg?style=social&label=Stars)](https://github.com/olofk/serv)
 |[SweRV](https://github.com/chipsalliance/Cores-SweRV)|SystemVerilog|rv32imc|9-stage, dual-issue, superscalar|ASIC|Apache2|[![SweRV](https://img.shields.io/github/stars/chipsalliance/Cores-SweRV.svg?style=social&label=Stars)](https://github.com/chipsalliance/Cores-SweRV)
 |[VexRiscv](https://github.com/SpinalHDL/VexRiscv)|Scala,SpinalHDL|rv32i[m][c][a]|2-5 stage|FPGA|MIT|[![VexRiscv](https://img.shields.io/github/stars/SpinalHDL/VexRiscv.svg?style=social&label=Stars)](https://github.com/SpinalHDL/VexRiscv)
-
+|[wyvernSemi](https://github.com/wyvernSemi/riscV)|Verilog|rv32imafdc|5 stage|FPGA|GPL3|[![wyvernSemi](https://img.shields.io/github/stars/wyvernSemi/riscV.svg?style=social&label=Stars)](https://github.com/wyvernSemi/riscV)]
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
