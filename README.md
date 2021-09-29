@@ -18,7 +18,7 @@ A curated list of awesome RISC-V implementations
 |[SweRV](https://github.com/chipsalliance/Cores-SweRV)|SystemVerilog|rv32imc|9-stage, dual-issue, superscalar|ASIC|Apache2|[![SweRV](https://img.shields.io/github/stars/chipsalliance/Cores-SweRV.svg?style=social&label=Stars)](https://github.com/chipsalliance/Cores-SweRV)
 |[VexRiscv](https://github.com/SpinalHDL/VexRiscv)|Scala,SpinalHDL|rv32i[m][c][a]|2-5 stage|FPGA|MIT|[![VexRiscv](https://img.shields.io/github/stars/SpinalHDL/VexRiscv.svg?style=social&label=Stars)](https://github.com/SpinalHDL/VexRiscv)
 |[wyvernSemi](https://github.com/wyvernSemi/riscV)|Verilog|rv32imafdc|5 stage|FPGA|GPL3|[![wyvernSemi](https://img.shields.io/github/stars/wyvernSemi/riscV.svg?style=social&label=Stars)](https://github.com/wyvernSemi/riscV)
-|[cva6](https://github.com/openhwgroup/cva6)|SystemVerilog|rv64imac|6 stage|SOLDERPAD|[![cva6](https://img.shields.io/github/stars/openhwgroup/cva6.svg?style=social&label=Stars)](https://github.com/openhwgroup/cva6)
+|[cva6](https://github.com/openhwgroup/cva6)|SystemVerilog|rv64imac|6 stage|SOLDERPAD|FPGA?|[![cva6](https://img.shields.io/github/stars/openhwgroup/cva6.svg?style=social&label=Stars)](https://github.com/openhwgroup/cva6)
 
 ## License
 
