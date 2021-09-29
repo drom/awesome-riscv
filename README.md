@@ -6,7 +6,7 @@ A curated list of awesome RISC-V implementations
 
 |Repository|Language|arch|microarch|Target|License|:star:|
 |-|-|-|-|-|-|-|
-|[Ariane](https://github.com/pulp-platform/ariane)|SystemVerilog|rv64gc|6 stage|FPGA,ASIC|Solderpad|[![Ariane](https://img.shields.io/github/stars/pulp-platform/ariane.svg?style=social&label=Stars)](https://github.com/pulp-platform/ariane)|
+|[cva6](https://github.com/openhwgroup/cva6)|SystemVerilog|rv64gc|6 stage|FPGA,ASIC|Solderpad|[![cva6](https://img.shields.io/github/stars/openhwgroup/cva6.svg?style=social&label=Stars)](https://github.com/openhwgroup/cva6)
 |[CV32E40P](https://github.com/openhwgroup/cv32e40p)|SystemVerilog|rv32imcf|4 stage|FPGA,ASIC|Solderpad|[![CV32E40P](https://img.shields.io/github/stars/openhwgroup/cv32e40p.svg?style=social&label=Stars)](https://github.com/openhwgroup/cv32e40p)|
 |[FWRISC-S](https://github.com/mballance/fwrisc-s)|SystemVerilog|rv32i[mc]||FPGA|Apache2|[![FWRISC-S](https://img.shields.io/github/stars/mballance/fwrisc-s.svg?style=social&label=Stars)](https://github.com/mballance/fwrisc-s)
 |[Ibex](https://github.com/lowRISC/ibex)|SystemVerilog|rv32imc|2 stage|ASIC|Apache2|[![Ibex](https://img.shields.io/github/stars/lowRISC/ibex.svg?style=social&label=Stars)](https://github.com/lowRISC/ibex)
@@ -18,7 +18,6 @@ A curated list of awesome RISC-V implementations
 |[SweRV](https://github.com/chipsalliance/Cores-SweRV)|SystemVerilog|rv32imc|9-stage, dual-issue, superscalar|ASIC|Apache2|[![SweRV](https://img.shields.io/github/stars/chipsalliance/Cores-SweRV.svg?style=social&label=Stars)](https://github.com/chipsalliance/Cores-SweRV)
 |[VexRiscv](https://github.com/SpinalHDL/VexRiscv)|Scala,SpinalHDL|rv32i[m][c][a]|2-5 stage|FPGA|MIT|[![VexRiscv](https://img.shields.io/github/stars/SpinalHDL/VexRiscv.svg?style=social&label=Stars)](https://github.com/SpinalHDL/VexRiscv)
 |[wyvernSemi](https://github.com/wyvernSemi/riscV)|Verilog|rv32imafdc|5 stage|FPGA|GPL3|[![wyvernSemi](https://img.shields.io/github/stars/wyvernSemi/riscV.svg?style=social&label=Stars)](https://github.com/wyvernSemi/riscV)
-|[cva6](https://github.com/openhwgroup/cva6)|SystemVerilog|rv64imac|6 stage|SOLDERPAD|FPGA?|[![cva6](https://img.shields.io/github/stars/openhwgroup/cva6.svg?style=social&label=Stars)](https://github.com/openhwgroup/cva6)
 
 ## License
 
