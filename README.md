@@ -19,7 +19,7 @@ A curated list of awesome RISC-V implementations
 |[VexRiscv](https://github.com/SpinalHDL/VexRiscv)|Scala,SpinalHDL|rv32i[m][c][a]|2-5 stage|FPGA|MIT| ![](https://img.shields.io/github/stars/SpinalHDL/VexRiscv?label=★)
 |[wyvernSemi](https://github.com/wyvernSemi/riscV)|Verilog|rv32imafdc|5 stage|FPGA|GPL3| ![](https://img.shields.io/github/stars/wyvernSemi/riscV?label=★)
 |[NEORV32](https://github.com/stnolting/neorv32)|VHDL|rv32[i/e][a][c][m][u]x[Zbb]... |2 stage|FPGA | BSD3 | ![](https://img.shields.io/github/stars/stnolting/neorv32?label=★)
-|[vroom](https://github.com/MoonbaseOtago/vroom)|Verilog|rv64imafdchb[v]|OOO, 9? stage, SMT-2|ASIC|GPL3| ![](https://img.shields.io/github/stars/MoonbaseOtago/vroom?label=★)
+|[vroom](https://github.com/MoonbaseOtago/vroom)|Verilog|rv64imafdchb[v]|OOO, 7+ stage, SMT-2|ASIC|GPL3| ![](https://img.shields.io/github/stars/MoonbaseOtago/vroom?label=★)
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
