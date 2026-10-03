@@ -21,6 +21,7 @@ A curated list of awesome RISC-V implementations
 |[NEORV32](https://github.com/stnolting/neorv32)|VHDL|rv32[i/e][a][c][m][u]x[Zbb]... |2 stage|FPGA | BSD3 | ![](https://img.shields.io/github/stars/stnolting/neorv32?label=★)
 |[vroom](https://github.com/MoonbaseOtago/vroom)|Verilog|rv64imafdchb[v]|OOO, 7+ stage, SMT-2|ASIC|GPL3| ![](https://img.shields.io/github/stars/MoonbaseOtago/vroom?label=★)
 |[NaxRiscv](https://github.com/SpinalHDL/NaxRiscv)|Scala,SpinalHDL|rv32/64imasu|OOO, superscalar, register renaming|FPGA|MIT| ![](https://img.shields.io/github/stars/SpinalHDL/NaxRiscv?label=★)
+|[LibreCore](https://github.com/etcimon/GSys-LibreCore)|SystemVerilog|rv64gc[b][h][v]|CVA6-derived: 6-stage in-order or OOO (rename/ROB/LSQ), 1–8 issue, SMT-2, multicore + L2/L3|ASIC (pre-silicon), Verilator|CERN-OHL-S-2.0| ![](https://img.shields.io/github/stars/etcimon/GSys-LibreCore?label=★)
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
